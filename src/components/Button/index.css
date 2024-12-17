@@ -1,0 +1,31 @@
+.my-butt {
+    color: white;
+    background-color: royalblue;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    min-width: 120px;
+    height: 40px;
+    font-size: medium;
+}
+
+.my-butt--primary {
+    background-color: royalblue;
+}
+
+.my-butt--primary:hover {
+    background-color: #024694;
+}
+
+.my-butt--secondary {
+    color: royalblue;
+    border: solid 2px royalblue;
+    background-color: unset;
+    opacity: 0.8;
+}
+
+.my-butt--secondary:hover {
+    color: white;
+    background-color: royalblue;
+    opacity: 1;
+}

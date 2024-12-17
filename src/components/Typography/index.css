@@ -1,0 +1,14 @@
+.typography--sm {
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.typography--md {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.typography--lg {
+    font-size: 16px;
+    line-height: 24px;
+}

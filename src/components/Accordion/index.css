@@ -1,0 +1,17 @@
+.accordion--button {
+    min-width: 480px;
+    height: 40px;
+    cursor: pointer;
+    border: unset;
+    background-color: unset;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.accordion {
+    width: 480px;
+}
+.accordion * {
+    margin: 0;
+}
